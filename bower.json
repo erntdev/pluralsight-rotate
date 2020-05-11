@@ -1,0 +1,21 @@
+{
+  "name": "pluralsight-rotate",
+  "version": "0.0.1",
+  "authors": [
+    "Ernesto García Maldonado"
+  ],
+  "description": "A simple element rotate library",
+  "main": "rotate.js",
+  "keywords": [
+    "rotate"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/erntdev",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
